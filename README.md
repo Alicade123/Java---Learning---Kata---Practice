@@ -47,7 +47,7 @@ Example:
 - [ ] _1kyu
       └── _...
 
-## 🏹Code && 🛠️ How to Use
+## Code && How to Use
 
 1. Clone the repo:
    ```bash
@@ -61,7 +61,7 @@ Example:
    ```bash
    javac Beta_BruteForceDetector.java
 
-## 📖 Learning Goals
+## Learning Goals
 
 - Strengthen JavaScript fundamentals (arrays, strings, objects, recursion, etc.).
 - Practice clean, maintainable code with comments for clarity.
