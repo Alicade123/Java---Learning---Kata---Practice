@@ -12,7 +12,7 @@ This repository is my growing archive of problem-solving practice, showcasing di
 
 ---
 
-## 🚀 Purpose
+## Purpose
 
 - Document my journey of mastering Java through kata challenges.
 - Provide a reference for reusable patterns, algorithms, and problem-solving strategies.
