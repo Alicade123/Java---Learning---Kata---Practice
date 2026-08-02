@@ -12,7 +12,7 @@ This repository is my growing archive of problem-solving practice, showcasing di
 
 ---
 
-## 🚀 Purpose
+## Purpose
 
 - Document my journey of mastering Java through kata challenges.
 - Provide a reference for reusable patterns, algorithms, and problem-solving strategies.
@@ -29,24 +29,25 @@ Each kata solution is organized by:
 - **File format**: Plain Java (`.java`) with clear class names and comments.
 
 Example:
-
-- [ ] _8kyu
+> &darr; Easiest
+- [x] _8kyu
       └──_ColorGhost
-- [ ] _7kyu
+- [x] _7kyu
       └── _FizzBuzz
-- [ ] _6kyu
+- [x] _6kyu
       └── _SimpleFun#132-NumberOfCarries
-- [ ] _5kyu
+- [x] _5kyu
       └── _EvaluatePostfixExpressionV1
-- [ ] _4kyu
+- [x] _4kyu
       └── _snail
-- [ ] _3kyu
+- [x] _3kyu
       └── _BreakingVigenèreCipherV0Dencrypt
 - [ ] _2kyu
       └── _...
 - [ ] _1kyu
       └── _...
-
+> &uarr; Hardest
+> 
 ## Code && How to Use
 
 1. Clone the repo:
